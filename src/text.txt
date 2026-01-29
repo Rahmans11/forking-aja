@@ -6,3 +6,4 @@ Example: (Name - Role)
 2. Ari Ramadhan - Backend Developer 
 3. Virgil Ambar - Frontend Developer
 4. Fadhlul Rahman - Full-Stack Developer from solid ceoffee
+5. Bian - Frontend Developer
