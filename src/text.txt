@@ -4,3 +4,4 @@ Example: (Name - Role)
 
 1. Wibisana - Backend Developer and Github Management
 2. Ari Ramadhan - Backend Developer 
+3. Virgil Ambar - Frontend Developer
