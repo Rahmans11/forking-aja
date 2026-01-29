@@ -1,0 +1,1 @@
+utamakan cuci kaki biar ga orang lain yang di tendang
